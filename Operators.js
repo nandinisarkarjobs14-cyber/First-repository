@@ -35,7 +35,7 @@ console.log (p)
 
 let b=10, c=15;
 
-console.log(b==c);
+console.log(b==d);
 
 /*******Comparison operator 2*******/
 
